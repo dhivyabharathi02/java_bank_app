@@ -13,7 +13,7 @@ public class bank {
 
             switch (choice) {
                 case 1:
-                    System.out.println("enter the amount");
+                    System. out.println("enter the amount");
                     x = sc.nextFloat();
                     amount = amount + x;
                     System.out.println("your deposited amount is" + amount);
